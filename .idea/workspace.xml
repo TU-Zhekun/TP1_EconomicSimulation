@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d68141-6bd4-498b-b3e9-a5a9c6eadf62" name="Default Changelist" comment="" />
+    <list default="true" id="66d68141-6bd4-498b-b3e9-a5a9c6eadf62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp1_OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1_POP.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp1_POP.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tp1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +22,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="5d0e1cc6-5a94-4d1d-9f56-2b91f464fcf0" />
   <component name="ProjectId" id="1nefE0nETylkgKMM0jW4B9xM87u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -33,7 +47,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
-  <component name="RunManager" selected="Python.tp1_POP">
+  <component name="RunManager" selected="Python.tp1_OOP">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="tp1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +92,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tp1_OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tp1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp1_OOP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tp1_POP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tp1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp1_POP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tp1_POP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tp1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tp1_OOP" />
+        <item itemvalue="Python.tp1_POP (1)" />
         <item itemvalue="Python.tp1_POP" />
         <item itemvalue="Python.example1" />
       </list>
@@ -118,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611755361977</updated>
       <workItem from="1611755363322" duration="5418000" />
-      <workItem from="1612190272929" duration="9281000" />
+      <workItem from="1612190272929" duration="21173000" />
     </task>
     <servers />
   </component>
@@ -126,22 +180,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1612274731102">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1612279107742">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612274731102" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1612274731102">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107742" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1612279107742">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612274731102" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1612274731101">
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107742" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1612279107742">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612274731101" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1612274731102">
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107742" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1612279107742">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612274731102" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107742" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1612279107743">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107743" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1612279107743">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107743" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1612279107742">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107742" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1612279107743">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279107743" />
     <state x="-1721" y="151" key="SettingsEditor" timestamp="1611759209495">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
@@ -150,8 +220,13 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1472" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612190305099" />
+    <state x="-1409" y="261" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612279025587">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1409" y="261" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612279025587" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tp1$tp1_OOP.coverage" NAME="tp1_OOP Coverage Results" MODIFIED="1612279054872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tp1$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1611760133357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tp1$tp1.coverage" NAME="tp1_POP Coverage Results" MODIFIED="1612274419744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
