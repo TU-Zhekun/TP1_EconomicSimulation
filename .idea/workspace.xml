@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d68141-6bd4-498b-b3e9-a5a9c6eadf62" name="Default Changelist" comment="" />
+    <list default="true" id="66d68141-6bd4-498b-b3e9-a5a9c6eadf62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tp1_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp1_OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1_POP.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp1_POP.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +94,9 @@
       <module name="tp1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -110,6 +116,9 @@
       <module name="tp1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -168,6 +177,7 @@
       <updated>1611755361977</updated>
       <workItem from="1611755363322" duration="5418000" />
       <workItem from="1612190272929" duration="21737000" />
+      <workItem from="1613415517244" duration="70000" />
     </task>
     <servers />
   </component>
@@ -175,6 +185,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1181" y="266" key="FileChooserDialogImpl" timestamp="1613415564934">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1181" y="266" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1613415564934" />
     <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1612310490839">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -219,10 +233,11 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1721" y="151" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1611759209495" />
-    <state x="-1472" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1612190305099">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state x="358" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1613415533614">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="-1472" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1612190305099" />
+    <state x="358" y="191" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1613415533614" />
     <state x="-1409" y="261" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612279025587">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
